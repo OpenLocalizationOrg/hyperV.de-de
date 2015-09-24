@@ -7,7 +7,6 @@
  Ignored Files | 0
  Handoff Files | 102
  Handback Files | 0
- Remaining Files | 102
 
 ## Source File List
  Source File | Status | Details 
