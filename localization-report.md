@@ -4,14 +4,11 @@
  Property | Value 
  -------- | ----- 
  Total Files | 268
-[ Handoff Files ](#handoff-list)| 1
-[ Handback Files ](#handback-list)| 98
+[ Handoff Files ](#handoff-list)| 0
+[ Handback Files ](#handback-list)| 99
 [ Ignored Files ](#ignored-list)| 169
 
 ## <a name='handoff-list'></a> Handoff File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/ed4d81c53acc075a5f1996c2b800f4c928df9366/virtualization/windowscontainers/containers_welcome.md) | HandedOff | [Details](#5bbad15bf08f3396361c96de5e810023c26c4b6c217)
 
 ## <a name='handback-list'></a> Handback File List
  Source File | Status | Details 
@@ -92,6 +89,7 @@
  [virtualization\windowscontainers\about\media\containerEcosystem.png](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/about/media/containerEcosystem.png) | HandedBack | [Details](#93ee375f9efb3462c5d1e4ba45248fe9dde58566207)
  [virtualization\windowscontainers\about\media\containerfund.png](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/about/media/containerfund.png) | HandedBack | [Details](#b62d8af1f08bc8085945c8aa154d46d2215879cb208)
  [virtualization\windowscontainers\about\work_in_progress.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/about/work_in_progress.md) | HandedBack | [Details](#090e2dccc937df4c7a80f63b447cb733af5020a3216)
+ [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/ed4d81c53acc075a5f1996c2b800f4c928df9366/virtualization/windowscontainers/containers_welcome.md) | HandedBack | [Details](#5bbad15bf08f3396361c96de5e810023c26c4b6c217)
  [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/EULA.md) | HandedBack | [Details](#7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32219)
  [virtualization\windowscontainers\quick_start\azure_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/quick_start/azure_setup.md) | HandedBack | [Details](#d82cfc8ade5b456e690bd35933eb2b939a4ed847224)
  [virtualization\windowscontainers\quick_start\container_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f072ef7227d8f03357a9930d2c15e228d3707661/virtualization/windowscontainers/quick_start/container_setup.md) | HandedBack | [Details](#bca267ee574504e3cb6d2c42f2aa095a3ace3619225)
@@ -2507,12 +2505,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='5bbad15bf08f3396361c96de5e810023c26c4b6c217'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/ed4d81c53acc075a5f1996c2b800f4c928df9366/virtualization/windowscontainers/containers_welcome.md)
-* Status: HandedOff
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/156d5bfbc92595807d69bc7e49b56d14fd936f3a/virtualization/windowscontainers/containers_welcome.md)
 * Handoff File: [5bbad15bf08f3396361c96de5e810023c26c4b6c.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/63546f0e858c97b8e0f3438f5be6af54d05edde7/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/5bbad15bf08f3396361c96de5e810023c26c4b6c.xlf)
-* Handback File: 
+* Handback File: [5bbad15bf08f3396361c96de5e810023c26c4b6c.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/4d8bac70c44fbec7d2a896b7815d2a8ec1673b46/ol-handback/OpenLocalizationOrg/hyperV.de-de/master/archive/5bbad15bf08f3396361c96de5e810023c26c4b6c.xlf)
 * Handoff Datetime: 2015-10-12 10:04:14
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-10-12 10:09:52
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 

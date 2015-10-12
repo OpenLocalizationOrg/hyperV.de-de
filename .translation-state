@@ -1611,16 +1611,16 @@
     "5bbad15bf08f3396361c96de5e810023c26c4b6c": {
       "SourceFileCommit": "ed4d81c53acc075a5f1996c2b800f4c928df9366",
       "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
+      "TargetFileCommit": "156d5bfbc92595807d69bc7e49b56d14fd936f3a",
+      "TargetFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\5bbad15bf08f3396361c96de5e810023c26c4b6c.xlf",
       "HandoffFileCommit": "63546f0e858c97b8e0f3438f5be6af54d05edde7",
       "HandoffReason": 1,
       "HandoffDateTime": "2015-10-12T10:04:14.4014456Z",
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
-      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\hyperV.de-de\\master\\archive\\5bbad15bf08f3396361c96de5e810023c26c4b6c.xlf",
+      "HandbackFileCommit": "4d8bac70c44fbec7d2a896b7815d2a8ec1673b46",
+      "HandbackDateTime": "2015-10-12T10:09:52.0656336Z",
+      "UpdatedDateTime": "2015-10-12T10:09:52.0656336Z",
       "DependencyFrom": null
     }
   }
