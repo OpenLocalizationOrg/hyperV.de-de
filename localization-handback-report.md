@@ -1,13 +1,12 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 3
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1ca71073e191c69f8d974282599fe59f1a3c7417/virtualization/community/community_overview.md) | HandedBack | [Details](#08796bf856b1936c65df41076765d9f33d79e26892)
- [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1ca71073e191c69f8d974282599fe59f1a3c7417/virtualization/windowscontainers/containers_welcome.md) | HandedBack | [Details](#5bbad15bf08f3396361c96de5e810023c26c4b6c217)
  [virtualization\windowscontainers\quick_start\azure_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1ca71073e191c69f8d974282599fe59f1a3c7417/virtualization/windowscontainers/quick_start/azure_setup.md) | HandedBack | [Details](#deea6a30461322b6de7138425b7c24f131bca51b224)
 
 ## Item Details
@@ -16,16 +15,6 @@
 * Target File: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/383bf36ff5633b6eeb3b600f6e707cff228d5b1c/virtualization/community/community_overview.md)
 * Handoff File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/693524fa9a407ab4e279cae601b7d37ddea48a4d/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
 * Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f949990c7b23783e417510a4690ff269a3071739/ol-handback/OpenLocalizationOrg/hyperV.de-de/master/archive/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
-* Handoff Datetime: 2015-10-23 11:07:15
-* Handback Datetime: 2015-10-23 11:08:01
-* Handoff Reason: Include
-* [Back to Top](#report-top)
-
-##### <a name='5bbad15bf08f3396361c96de5e810023c26c4b6c217'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1ca71073e191c69f8d974282599fe59f1a3c7417/virtualization/windowscontainers/containers_welcome.md)
-* Status: HandedBack
-* Target File: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/383bf36ff5633b6eeb3b600f6e707cff228d5b1c/virtualization/windowscontainers/containers_welcome.md)
-* Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/693524fa9a407ab4e279cae601b7d37ddea48a4d/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf)
-* Handback File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/f949990c7b23783e417510a4690ff269a3071739/ol-handback/OpenLocalizationOrg/hyperV.de-de/master/archive/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf)
 * Handoff Datetime: 2015-10-23 11:07:15
 * Handback Datetime: 2015-10-23 11:08:01
 * Handoff Reason: Include

@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "1ca71073e191c69f8d974282599fe59f1a3c7417",
+  "LastProcessedCommit": "a505864cc0d73fcd3f2c8db75da179977aa7f347",
   "LastTranslatedCommit": "383bf36ff5633b6eeb3b600f6e707cff228d5b1c",
   "Items": {
     "d95757903564f8beea62ad4d2977764d431eeeb8": {
@@ -1637,6 +1637,21 @@
       "HandbackFileCommit": "f949990c7b23783e417510a4690ff269a3071739",
       "HandbackDateTime": "2015-10-23T11:08:01.3881014Z",
       "UpdatedDateTime": "2015-10-23T11:08:01.3881014Z",
+      "DependencyFrom": null
+    },
+    "2c76787127772f0d0fe7a8f95c3f8b79d4ffbb5f": {
+      "SourceFileCommit": "a505864cc0d73fcd3f2c8db75da179977aa7f347",
+      "SourceFilePath": "virtualization\\windowscontainers\\containers_welcome.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf",
+      "HandoffFileCommit": "7d0ecaac7fa51b3866bd70323f71640a30b8396a",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-10-26T09:24:13.1802038Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "DependencyFrom": null
     }
   }
