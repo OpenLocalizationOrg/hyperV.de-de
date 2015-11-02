@@ -11,11 +11,11 @@
 ## Item Details
 ##### <a name='e74cc355b6e1032988b738c77cc315bc9f0dc8ab93'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/virtualization/community/community_overview.md)
 * Status: HandedBack
-* Target File: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/e818c4422e7541487313722d0baf102a57826657/virtualization/community/community_overview.md)
+* Target File: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/8e4a0bb2cdd74e626f8cd06f3f32116b5d284d39/virtualization/community/community_overview.md)
 * Handoff File: 
-* Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a55ac8a44aa3d6838085e7bf09acf3407cc05614/ol-handback/OpenLocalizationOrg/hyperV.de-de/handoff1/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
+* Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/56f6f9cad0fc78542e51802700d02c33bf4ef653/ol-handback/OpenLocalizationOrg/hyperV.de-de/handoff1/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
 * Handoff Datetime: 0001-01-01 00:00:00
-* Handback Datetime: 2015-11-02 10:29:48
+* Handback Datetime: 2015-11-02 12:19:47
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
