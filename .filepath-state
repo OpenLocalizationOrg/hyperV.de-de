@@ -1,5 +1,5 @@
 {
-  "f8d11d3ae6fb0042b3062da5568ada44291246d3": [
+  "609e38f0f23d40cb00dda447854b9bfa5545aa68": [
     "virtualization\\community\\community_overview.md"
   ],
   "d95757903564f8beea62ad4d2977764d431eeeb8": [
@@ -122,35 +122,8 @@
   "d5ff93f76a16632d5909862b698bee3b388b3e9d": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
   ],
-  "44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\command_grid.png"
-  ],
-  "9d753332489389765c1ea1cfa1737126a201644c": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png"
-  ],
-  "579a5b151617e20cfb4e116a6f365a96dbaa9c4a": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_vm.png"
-  ],
-  "50819aee09462e65ad3e58e1498aeb2100326434": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\POSH_CP2.png"
-  ],
   "12593a84a3881dd6f3e343af2777976f1505c9fc": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
-  ],
-  "2d6238ee2a2ab32abb8c554ed523d991dd2872a5": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\virtual_switch_manager1.png"
-  ],
-  "c99ae72d3f7fed23ecb0c4f298e5a7a35afc88d4": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\new_switch.png"
-  ],
-  "16014b7a0feb0558437d99113972981e6560ef83": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\new_switch_createbutton.png"
-  ],
-  "010b14ab9606fc78ab56eee192fa75bd3c9ce944": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\share_nic.png"
-  ],
-  "7914414173209fcf0105acf95f81399419f997e8": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\network_warning.png"
   ],
   "03fe1e66908d536b310a1e4e8da4d58551243ede": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_vmconnect.md"
