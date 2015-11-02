@@ -5,8 +5,8 @@
  -------- | ----- 
  Total Files | 268
 [ Handoff Files ](#handoff-list)| 87
-[ Handback Files ](#handback-list)| 0
-[ Ignored Files ](#ignored-list)| 181
+[ Handback Files ](#handback-list)| 3
+[ Ignored Files ](#ignored-list)| 178
 
 ## <a name='handoff-list'></a> Handoff File List
  Source File | Status | Details 
@@ -100,6 +100,11 @@
  [virtualization\windowscontainers\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/windowscontainers/TOC.md) | HandedOff | [Details](#c9a613b41195c01471a39d59e0fccdb2e226b08a267)
 
 ## <a name='handback-list'></a> Handback File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/community/community_overview.md) | HandedBack | [Details](#08796bf856b1936c65df41076765d9f33d79e26892)
+ [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/community/TOC.md) | HandedBack | [Details](#d95757903564f8beea62ad4d2977764d431eeeb894)
+ [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md) | HandedBack | [Details](#b23c1bcf3ca7d96f054fff51817fa6740ba5e36197)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -196,12 +201,9 @@
  [Tools\smsnotes.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/Tools/smsnotes.txt) | Ignored | [Details](#c3518b2cd1c1eeab8262f38b8745ae747ff37f6e89)
  [Tools\stuff.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/Tools/stuff.txt) | Ignored | [Details](#0294f9ac1c414491ceb24540a3e3be3fef0b5d4990)
  [virtualization\center.json](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/center.json) | Ignored | [Details](#d50691e91b65863f8635fbfa8cfb87cf21c0471f91)
- [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/community/community_overview.md) | Ignored | [Details](#08796bf856b1936c65df41076765d9f33d79e26892)
  [virtualization\community\Docset.json](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/community/Docset.json) | Ignored | [Details](#d74ebe4088d2d8baae9703d34e67864dca2dc73793)
- [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/community/TOC.md) | Ignored | [Details](#d95757903564f8beea62ad4d2977764d431eeeb894)
  [virtualization\ContainerNodeTitles.csv](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/ContainerNodeTitles.csv) | Ignored | [Details](#c733d78267d27b61d745b22da96352bf5cc37ffe95)
  [virtualization\failure.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/failure.txt) | Ignored | [Details](#da39a3ee5e6b4b0d3255bfef95601890afd8070996)
- [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md) | Ignored | [Details](#b23c1bcf3ca7d96f054fff51817fa6740ba5e36197)
  [virtualization\hyperv_on_windows\about\media\StandardCheckpoints.png](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/hyperv_on_windows/about/media/StandardCheckpoints.png) | Ignored | [Details](#907679edd04736394d4e796f706436d114baec4f99)
  [virtualization\hyperv_on_windows\about\supported_guest_os.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/hyperv_on_windows/about/supported_guest_os.md) | Ignored | [Details](#b2c94ac52ef618490102103406d0ed0e4366a42b100)
  [virtualization\hyperv_on_windows\about\whats_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/hyperv_on_windows/about/whats_new.md) | Ignored | [Details](#0f9464f2f6084b3aa09bab39562c5a6644f2b26e101)
@@ -1208,12 +1210,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='08796bf856b1936c65df41076765d9f33d79e26892'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/community/community_overview.md)
-* Status: Ignored
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/39945865cf483a99f288088689c5f8c8a67c995f/virtualization/community/community_overview.md)
 * Handoff File: 
-* Handback File: 
+* Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/aa2020b3abf883cd4d06788d825fffa2560b32d4/ol-handback/OpenLocalizationOrg/hyperV.de-de/handoff2/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
 * Handoff Datetime: 0001-01-01 00:00:00
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-02 03:45:09
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
@@ -1228,12 +1230,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='d95757903564f8beea62ad4d2977764d431eeeb894'></a> Source: [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/community/TOC.md)
-* Status: Ignored
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/39945865cf483a99f288088689c5f8c8a67c995f/virtualization/community/TOC.md)
 * Handoff File: 
-* Handback File: 
+* Handback File: [TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/aa2020b3abf883cd4d06788d825fffa2560b32d4/ol-handback/OpenLocalizationOrg/hyperV.de-de/handoff2/TOC.4885638d0b97b11bc739bfa927a9ccebda99114f.de-de.xlf)
 * Handoff Datetime: 0001-01-01 00:00:00
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-02 03:45:09
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
@@ -1258,12 +1260,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='b23c1bcf3ca7d96f054fff51817fa6740ba5e36197'></a> Source: [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/fa3bf3089c75702e372b2d1dc6fd6f62a89b6793/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md)
-* Status: Ignored
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/39945865cf483a99f288088689c5f8c8a67c995f/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md)
 * Handoff File: 
-* Handback File: 
+* Handback File: [hyperv_on_windows_new.843266a46ea6fc806eee76f3d077a552855f8891.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/aa2020b3abf883cd4d06788d825fffa2560b32d4/ol-handback/OpenLocalizationOrg/hyperV.de-de/handoff2/hyperv_on_windows_new.843266a46ea6fc806eee76f3d077a552855f8891.de-de.xlf)
 * Handoff Datetime: 0001-01-01 00:00:00
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-02 03:45:09
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
