@@ -2524,9 +2524,9 @@
 ##### <a name='389a763b198f6edffdf89a7c59bab19036bfe966218'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c7f0b6e329600314d829869ce2c06c9e3a90235b/virtualization/windowscontainers/containers_welcome.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9cb805843648880d82214e43a975abdad3c03518/ol-handoff/OpenLocalizationOrg/hyperV.de-de/handoff1/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf)
+* Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e79bd4a20b12571abd0317403bc52dd2824f7a67/ol-handoff/OpenLocalizationOrg/hyperV.de-de/handoff1/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf)
 * Handback File: 
-* Handoff Datetime: 2015-11-02 12:22:37
+* Handoff Datetime: 2015-11-02 12:36:36
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
 * [Back to Top](#report-top)
