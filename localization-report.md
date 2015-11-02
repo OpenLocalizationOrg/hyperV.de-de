@@ -5,14 +5,15 @@
  -------- | ----- 
  Total Files | 269
 [ Handoff Files ](#handoff-list)| 0
-[ Handback Files ](#handback-list)| 102
-[ Ignored Files ](#ignored-list)| 167
+[ Handback Files ](#handback-list)| 103
+[ Ignored Files ](#ignored-list)| 166
 
 ## <a name='handoff-list'></a> Handoff File List
 
 ## <a name='handback-list'></a> Handback File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/virtualization/community/community_overview.md) | HandedBack | [Details](#e74cc355b6e1032988b738c77cc315bc9f0dc8ab93)
  [virtualization\community\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/community/TOC.md) | HandedBack | [Details](#d95757903564f8beea62ad4d2977764d431eeeb895)
  [virtualization\hyperv_on_windows\about\hyperv_on_windows_new.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/about/hyperv_on_windows_new.md) | HandedBack | [Details](#b23c1bcf3ca7d96f054fff51817fa6740ba5e36198)
  [virtualization\hyperv_on_windows\about\media\ProductionCheckpoints_new.png](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/hyperv_on_windows/about/media/ProductionCheckpoints_new.png) | HandedBack | [Details](#00f8d7cfb9fbdf0f9d67f239aff5575dcdaaaed099)
@@ -212,7 +213,6 @@
  [Tools\smsnotes.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/Tools/smsnotes.txt) | Ignored | [Details](#c3518b2cd1c1eeab8262f38b8745ae747ff37f6e90)
  [Tools\stuff.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/Tools/stuff.txt) | Ignored | [Details](#0294f9ac1c414491ceb24540a3e3be3fef0b5d4991)
  [virtualization\center.json](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/virtualization/center.json) | Ignored | [Details](#d50691e91b65863f8635fbfa8cfb87cf21c0471f92)
- [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/virtualization/community/community_overview.md) | Ignored | [Details](#e74cc355b6e1032988b738c77cc315bc9f0dc8ab93)
  [virtualization\community\Docset.json](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/virtualization/community/Docset.json) | Ignored | [Details](#d74ebe4088d2d8baae9703d34e67864dca2dc73794)
  [virtualization\ContainerNodeTitles.csv](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/virtualization/ContainerNodeTitles.csv) | Ignored | [Details](#c733d78267d27b61d745b22da96352bf5cc37ffe96)
  [virtualization\failure.txt](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/virtualization/failure.txt) | Ignored | [Details](#da39a3ee5e6b4b0d3255bfef95601890afd8070997)
@@ -1219,12 +1219,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='e74cc355b6e1032988b738c77cc315bc9f0dc8ab93'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/18f9a4875414f23797494f2262f4626bd128ccac/virtualization/community/community_overview.md)
-* Status: Ignored
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/f2842765767434246237a4d35324958411d8308e/virtualization/community/community_overview.md)
 * Handoff File: 
-* Handback File: 
+* Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/a55ac8a44aa3d6838085e7bf09acf3407cc05614/ol-handback/OpenLocalizationOrg/hyperV.de-de/handoff1/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
 * Handoff Datetime: 0001-01-01 00:00:00
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-02 10:08:49
 * Handoff Reason: Ignored
 * [Back to Top](#report-top)
 
