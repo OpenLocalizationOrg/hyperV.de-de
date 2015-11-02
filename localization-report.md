@@ -4,14 +4,11 @@
  Property | Value 
  -------- | ----- 
  Total Files | 269
-[ Handoff Files ](#handoff-list)| 1
-[ Handback Files ](#handback-list)| 102
+[ Handoff Files ](#handoff-list)| 0
+[ Handback Files ](#handback-list)| 103
 [ Ignored Files ](#ignored-list)| 166
 
 ## <a name='handoff-list'></a> Handoff File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c7f0b6e329600314d829869ce2c06c9e3a90235b/virtualization/windowscontainers/containers_welcome.md) | HandedOff | [Details](#389a763b198f6edffdf89a7c59bab19036bfe966218)
 
 ## <a name='handback-list'></a> Handback File List
  Source File | Status | Details 
@@ -96,6 +93,7 @@
  [virtualization\windowscontainers\about\media\containerEcosystem.png](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/windowscontainers/about/media/containerEcosystem.png) | HandedBack | [Details](#93ee375f9efb3462c5d1e4ba45248fe9dde58566208)
  [virtualization\windowscontainers\about\media\containerfund.png](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/windowscontainers/about/media/containerfund.png) | HandedBack | [Details](#b62d8af1f08bc8085945c8aa154d46d2215879cb209)
  [virtualization\windowscontainers\about\work_in_progress.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/windowscontainers/about/work_in_progress.md) | HandedBack | [Details](#090e2dccc937df4c7a80f63b447cb733af5020a3217)
+ [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c7f0b6e329600314d829869ce2c06c9e3a90235b/virtualization/windowscontainers/containers_welcome.md) | HandedBack | [Details](#389a763b198f6edffdf89a7c59bab19036bfe966218)
  [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/windowscontainers/EULA.md) | HandedBack | [Details](#7640a837f02d2e4f4bcc6bc9ca66b5a5c37eef32220)
  [virtualization\windowscontainers\quick_start\azure_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/windowscontainers/quick_start/azure_setup.md) | HandedBack | [Details](#deea6a30461322b6de7138425b7c24f131bca51b225)
  [virtualization\windowscontainers\quick_start\container_setup.md](https://github.com/OpenLocalizationOrg/hyperV/blob/0b2b9679836e529ac16b63421dfe6096ae5669b1/virtualization/windowscontainers/quick_start/container_setup.md) | HandedBack | [Details](#bca267ee574504e3cb6d2c42f2aa095a3ace3619226)
@@ -2522,12 +2520,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='389a763b198f6edffdf89a7c59bab19036bfe966218'></a> Source: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/c7f0b6e329600314d829869ce2c06c9e3a90235b/virtualization/windowscontainers/containers_welcome.md)
-* Status: HandedOff
-* Target File: 
+* Status: HandedBack
+* Target File: [virtualization\windowscontainers\containers_welcome.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/4ecd6cf3a6b9d34c2950a84485b77c81e76eb078/virtualization/windowscontainers/containers_welcome.md)
 * Handoff File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e79bd4a20b12571abd0317403bc52dd2824f7a67/ol-handoff/OpenLocalizationOrg/hyperV.de-de/handoff1/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf)
-* Handback File: 
+* Handback File: [containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/24100c3acdac87f8c1d95adb0c49ce4d5cdcd734/ol-handback/OpenLocalizationOrg/hyperV.de-de/handoff1/containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf)
 * Handoff Datetime: 2015-11-02 12:36:36
-* Handback Datetime: 0001-01-01 00:00:00
+* Handback Datetime: 2015-11-02 12:47:49
 * Handoff Reason: Include
 * [Back to Top](#report-top)
 
