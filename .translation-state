@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "623b52aec70697254bc7b3a8990872af1b6c7136",
+  "LastProcessedCommit": "2e2217b342b6208cadbfefe8dda93c05cd4bfe60",
   "LastTranslatedCommit": "9debd676535191a4395626235b7994a95eb9561c",
   "Items": {
     "ce90f26c070574b70f98ae02065dbd0cc7228f7f": {
@@ -1707,15 +1707,30 @@
       "UpdatedDateTime": "2015-11-02T12:49:58.9395684Z",
       "DependencyFrom": null
     },
-    "609e38f0f23d40cb00dda447854b9bfa5545aa68": {
-      "SourceFileCommit": "623b52aec70697254bc7b3a8990872af1b6c7136",
+    "ed968510a1e72e532a3e4df850bed9a40050619c": {
+      "SourceFileCommit": "2e2217b342b6208cadbfefe8dda93c05cd4bfe60",
       "SourceFilePath": "virtualization\\community\\community_overview.md",
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\handoff1\\community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf",
-      "HandoffFileCommit": "983eee91d52167765bb0731084dc8758cb138415",
+      "HandoffFileCommit": "7d82eed8c7cbaedc3957a709ef02d58d133a44fa",
       "HandoffReason": 1,
-      "HandoffDateTime": "2015-11-02T13:39:25.7119972Z",
+      "HandoffDateTime": "2015-11-03T01:23:22.5199231Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null
+    },
+    "d8974c5f1e79317c904664878938ba50c6463a93": {
+      "SourceFileCommit": "2e2217b342b6208cadbfefe8dda93c05cd4bfe60",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\windows_welcome.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\handoff1\\windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.de-de.xlf",
+      "HandoffFileCommit": "7d82eed8c7cbaedc3957a709ef02d58d133a44fa",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-11-03T01:23:22.5199231Z",
       "HandbackFilePath": null,
       "HandbackFileCommit": null,
       "HandbackDateTime": "0001-01-01T00:00:00",
