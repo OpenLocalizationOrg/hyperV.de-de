@@ -6,15 +6,15 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f36036cc962d2154353d5a70b5194d6066d2a87e/virtualization/hyperv_on_windows/windows_welcome.md) | HandedOff | [Details](#459ade1a01a97ff4491235891dab629bd8f6cba4202)
+ [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/a54fa454d72b89423069a69f56b9b9fc8ea834b9/virtualization/hyperv_on_windows/windows_welcome.md) | HandedOff | [Details](#8ca36041a4652bcceb536128d63ea6ab8f64f98b202)
 
 ## Item Details
-##### <a name='459ade1a01a97ff4491235891dab629bd8f6cba4202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/f36036cc962d2154353d5a70b5194d6066d2a87e/virtualization/hyperv_on_windows/windows_welcome.md)
+##### <a name='8ca36041a4652bcceb536128d63ea6ab8f64f98b202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome.md](https://github.com/OpenLocalizationOrg/hyperV/blob/a54fa454d72b89423069a69f56b9b9fc8ea834b9/virtualization/hyperv_on_windows/windows_welcome.md)
 * Status: HandedOff
 * Target File: 
-* Handoff File: [windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9eb7dd9024ed97d225a4cfd7e63c60cff814d2e8/ol-handoff/OpenLocalizationOrg/hyperV.de-de/handoff1/windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.de-de.xlf)
+* Handoff File: [windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/78e04ccb1bcfe6b163ac0c53af6f8f1403104aaa/ol-handoff/OpenLocalizationOrg/hyperV.de-de/handoff1/windows_welcome.5cc1a907523a3cc51d983b8dc14732d35513e54e.de-de.xlf)
 * Handback File: 
-* Handoff Datetime: 2015-11-03 02:04:39
+* Handoff Datetime: 2015-11-03 02:11:03
 * Handback Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Include
 * [Back to Top](#report-top)
