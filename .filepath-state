@@ -218,7 +218,7 @@
   "8038edc8eac0a017e688401c61e5a78787f26bd6": [
     "virtualization\\hyperv_on_windows\\user_guide\\vmsession.md"
   ],
-  "9b7135ec239a1498f1676884ba4f4ab45f0e137e": [
+  "dade44f0cacc27983dc4fe39525d86391dccd5a8": [
     "virtualization\\hyperv_on_windows\\windows_welcome.md"
   ],
   "1cd230752f52bb9786821493df48c8a5a2a2f903": [
@@ -307,6 +307,9 @@
   ],
   "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
     "virtualization\\windowscontainers\\TOC.md"
+  ],
+  "9b7135ec239a1498f1676884ba4f4ab45f0e137e": [
+    "virtualization\\hyperv_on_windows\\windows_welcome.md"
   ],
   "20da26cc32f4cb6cbca8ad9038e782e13816cdb6": [
     "virtualization\\hyperv_on_windows\\windows_welcome.md"
