@@ -1,7 +1,4 @@
 {
-  "ed968510a1e72e532a3e4df850bed9a40050619c": [
-    "virtualization\\community\\community_overview.md"
-  ],
   "d95757903564f8beea62ad4d2977764d431eeeb8": [
     "virtualization\\community\\TOC.md"
   ],
@@ -121,18 +118,6 @@
   ],
   "d5ff93f76a16632d5909862b698bee3b388b3e9d": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_powershell.md"
-  ],
-  "44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\command_grid.png"
-  ],
-  "9d753332489389765c1ea1cfa1737126a201644c": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png"
-  ],
-  "579a5b151617e20cfb4e116a6f365a96dbaa9c4a": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_vm.png"
-  ],
-  "50819aee09462e65ad3e58e1498aeb2100326434": [
-    "virtualization\\hyperv_on_windows\\quick_start\\media\\POSH_CP2.png"
   ],
   "12593a84a3881dd6f3e343af2777976f1505c9fc": [
     "virtualization\\hyperv_on_windows\\quick_start\\walkthrough_virtual_switch.md"
@@ -308,10 +293,19 @@
   "c9a613b41195c01471a39d59e0fccdb2e226b08a": [
     "virtualization\\windowscontainers\\TOC.md"
   ],
-  "9b7135ec239a1498f1676884ba4f4ab45f0e137e": [
-    "virtualization\\hyperv_on_windows\\windows_welcome.md"
+  "ed968510a1e72e532a3e4df850bed9a40050619c": [
+    "virtualization\\community\\community_overview.md"
   ],
-  "20da26cc32f4cb6cbca8ad9038e782e13816cdb6": [
-    "virtualization\\hyperv_on_windows\\windows_welcome.md"
+  "44a0686f5ce5d1544b8a61bcad0a06eb1e1ce9d4": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\command_grid.png"
+  ],
+  "9d753332489389765c1ea1cfa1737126a201644c": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_help.png"
+  ],
+  "579a5b151617e20cfb4e116a6f365a96dbaa9c4a": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\get_vm.png"
+  ],
+  "50819aee09462e65ad3e58e1498aeb2100326434": [
+    "virtualization\\hyperv_on_windows\\quick_start\\media\\POSH_CP2.png"
   ]
 }
