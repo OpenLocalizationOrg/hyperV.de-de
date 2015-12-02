@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "43de3dd14e353372185d9591d0a74cd2fbbffce8",
+  "LastProcessedCommit": "6389f8b43b8a01f7ece2bf6438f78392ac1e57fd",
   "LastTranslatedCommit": "daefd6039b18b26aab3fae1b3cba395c7acf198b",
   "Items": {
     "d95757903564f8beea62ad4d2977764d431eeeb8": {
@@ -2315,6 +2315,44 @@
       "DependencyFrom": null,
       "FilePathList": [
         "virtualization\\hyperv_on_windows\\windows_welcome.md"
+      ]
+    },
+    "7c81ad16e094e7991716b59d4b80a8409ea7ef80": {
+      "FileHash": "7c81ad16e094e7991716b59d4b80a8409ea7ef80",
+      "SourceFileCommit": "6389f8b43b8a01f7ece2bf6438f78392ac1e57fd",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\supported_guest_os.d1ae8a9dd710f94e6f72759af7a880d39bf8c9bf.de-de.xlf",
+      "HandoffFileCommit": "23e3520b30df2887963f37ebcb0e96358975bde0",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-12-02T01:42:11.1243367Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\about\\supported_guest_os.md"
+      ]
+    },
+    "18ddc4fbc1c483e781564019ade6261d7e099552": {
+      "FileHash": "18ddc4fbc1c483e781564019ade6261d7e099552",
+      "SourceFileCommit": "6389f8b43b8a01f7ece2bf6438f78392ac1e57fd",
+      "SourceFilePath": "virtualization\\hyperv_on_windows\\about\\whats_new.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\whats_new.dae7a7074466e85ccbefc13ff0f5e799912523e9.de-de.xlf",
+      "HandoffFileCommit": "23e3520b30df2887963f37ebcb0e96358975bde0",
+      "HandoffReason": 1,
+      "HandoffDateTime": "2015-12-02T01:42:11.1243367Z",
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "DependencyFrom": null,
+      "FilePathList": [
+        "virtualization\\hyperv_on_windows\\about\\whats_new.md"
       ]
     }
   }
