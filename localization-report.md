@@ -5,18 +5,15 @@
  -------- | ----- 
  Total Files | 269
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 1
+[ Handoff Success Files ](#handoff-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 5
 [ In Sync Handback Files ](#insync-handback-success-list)| 97
-[ Ignored Files ](#ignored-list)| 166
+[ Ignored Files ](#ignored-list)| 167
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
 ## <a name='handoff-success-list'></a> Handoff Sucess File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/hyperv_on_windows/windows_welcome1.md) | HandedOffSuccess | [Details](#9ce8544730a5c1f86ed1b2bc42f57fb922b677bf202)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -262,6 +259,7 @@
  [virtualization\hyperv_on_windows\quick_start\media\vmconnect_start_button.png](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/hyperv_on_windows/quick_start/media/vmconnect_start_button.png) | Ignored | [Details](#264bde04cf7bc72f9718fbe8753b29f714c02572178)
  [virtualization\hyperv_on_windows\user_guide\media\EnterCreds.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/hyperv_on_windows/user_guide/media/EnterCreds.PNG) | Ignored | [Details](#e4bd46363518215cafab94f61cd83be673624f7e191)
  [virtualization\hyperv_on_windows\user_guide\media\HyperVManager-ConnectToRemoteHostWin8.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/hyperv_on_windows/user_guide/media/HyperVManager-ConnectToRemoteHostWin8.PNG) | Ignored | [Details](#f256488c87570f303ea12b525a0905a4d3b610d6196)
+ [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/hyperv_on_windows/windows_welcome1.md) | Ignored | [Details](#45b3d0220f08a392288244df9b2aec25aba20ed1202)
  [virtualization\TOC.csv](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/TOC.csv) | Ignored | [Details](#e5877c364958afd9eb0520572b2a8982d4bbde03203)
  [virtualization\windowscontainers\about\media\ContainerCreationLifeCycle.PNG](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/windowscontainers/about/media/ContainerCreationLifeCycle.PNG) | Ignored | [Details](#7b2b5200e2da1b82e01c596da837387233322bf1207)
  [virtualization\windowscontainers\about\media\containers._2.png](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/windowscontainers/about/media/containers._2.png) | Ignored | [Details](#f38b1c5d5e6054b458fb21cabc6610d107344824210)
@@ -2379,12 +2377,12 @@
 * Handback Datetime: 2015-10-12 09:56:02
 * [Back to Top](#report-top)
 
-##### <a name='9ce8544730a5c1f86ed1b2bc42f57fb922b677bf202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/hyperv_on_windows/windows_welcome1.md)
-* Status: HandedOffSuccess
+##### <a name='45b3d0220f08a392288244df9b2aec25aba20ed1202'></a> Source: [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/1e9b850c43c17b89657c85601da1df22ec1fb609/virtualization/hyperv_on_windows/windows_welcome1.md)
+* Status: Ignored
 * Target File: 
-* Handoff File: [windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/3807fd8e5a2a13f2cdb59aa3084b5bf39ca87678/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/windows_welcome1.1eec8547e8270740cdb6073b648778b04421e23a.de-de.xlf)
-* Handoff Datetime: 2016-01-08 14:11:20
-* Handoff Reason: Include
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
