@@ -1,11 +1,29 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/39f412ac028721147f134d4563b5259b8536d855/virtualization/hyperv_on_windows/TOC.md) | OutofSyncHandedBackSuccess | [Details](#18d4e123991b3a1b7f821ac2850956fec87bbed3186)
 
 ## Item Details
+##### <a name='18d4e123991b3a1b7f821ac2850956fec87bbed3186'></a> Source: [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperV/blob/39f412ac028721147f134d4563b5259b8536d855/virtualization/hyperv_on_windows/TOC.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/79a0172193cea8fd8261b01db3cdc5b773c833d3/ol-handoff/OpenLocalizationOrg/hyperV.de-de/live/TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.de-de.xlf)
+* Handoff Datetime: 2016-02-26 13:36:10
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\hyperv_on_windows\TOC.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/ef6d75361299ed0eb2b8d293be40b3bed608e356/virtualization/hyperv_on_windows/TOC.md)
+* Current Handback File: [TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/5dea4821233545625277b52d8d9b55b534183812/ol-handback/OpenLocalizationOrg/hyperV.de-de/live/TOC.dc6d280c11d16ece7fbc1f22991c5fc34412dd1a.de-de.xlf)
+* Current Handback Datetime: 2016-02-22 08:57:59
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
