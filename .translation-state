@@ -4822,9 +4822,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\archive\\containers_welcome.2c85b1345b8dfcc523a3848ed7661e25d5ffbb17.de-de.xlf",
+      "ArchiveFileCommit": "752d312348cbb3b3f05186b5d2e0e7c0fe0eb052",
+      "ArchiveFileDateTime": "2016-03-03T10:03:16.0862269Z",
       "ArchiveException": null
     },
     "58884e60284e59843a9fa4f8a832d7f7748df454": {
