@@ -5105,9 +5105,9 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "0001-01-01T00:00:00",
-      "ArchiveFilePath": null,
-      "ArchiveFileCommit": null,
-      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\ht-legal\\archive\\ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf",
+      "ArchiveFileCommit": "0d98a4f766f4c3bb96224358a565080f267f3f2c",
+      "ArchiveFileDateTime": "2016-03-12T14:04:59.1888673Z",
       "ArchiveException": null
     }
   }

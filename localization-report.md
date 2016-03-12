@@ -5,9 +5,9 @@
  -------- | ----- 
  Total Files | 272
 [ Handoff Failed Files ](#handoff-failed-list)| 0
-[ Handoff Success Files ](#handoff-success-list)| 3
+[ Handoff Success Files ](#handoff-success-list)| 2
 [ Archive Failed Files ](#archive-failed-list)| 0
-[ Archive Success Files ](#archive-success-list)| 0
+[ Archive Success Files ](#archive-success-list)| 1
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 9
 [ In Sync Handback Files ](#insync-handback-success-list)| 94
@@ -18,13 +18,15 @@
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [virtualization\hyperv_on_windows\ECULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/e1c70701d88c34a3b6ed022f6de2656b87b78148/virtualization/hyperv_on_windows/ECULA.md) | HandedOffSuccess | [Details](#a26fcbf2016944cace1f75451c1ad50d55313943106)
  [virtualization\hyperv_on_windows\media\22222.png](https://github.com/OpenLocalizationOrg/hyperV/blob/f8f8bf64a85c960db3f610b2a6d07f0e9316b035/virtualization/hyperv_on_windows/media/22222.png) | HandedOffSuccess | [Details](#f3f1f06ec428a26e56c99689a1c3dfad72ff4460110)
  [virtualization\hyperv_on_windows\windows_welcome1.md](https://github.com/OpenLocalizationOrg/hyperV/blob/84bea08277ad8e3559585b9b8dfc77b334c435ac/virtualization/hyperv_on_windows/windows_welcome1.md) | HandedOffSuccess | [Details](#25a794bd56d974bf454b9b3a84f73a81b18bded1205)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
 
 ## <a name='archive-success-list'></a> Archive Success File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [virtualization\hyperv_on_windows\ECULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/e1c70701d88c34a3b6ed022f6de2656b87b78148/virtualization/hyperv_on_windows/ECULA.md) | ArchivedSuccess | [Details](#a26fcbf2016944cace1f75451c1ad50d55313943106)
 
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
@@ -1594,13 +1596,13 @@
 * [Back to Top](#report-top)
 
 ##### <a name='a26fcbf2016944cace1f75451c1ad50d55313943106'></a> Source: [virtualization\hyperv_on_windows\ECULA.md](https://github.com/OpenLocalizationOrg/hyperV/blob/e1c70701d88c34a3b6ed022f6de2656b87b78148/virtualization/hyperv_on_windows/ECULA.md)
-* Status: HandedOffSuccess
+* Status: ArchivedSuccess
 * Target File: 
 * Handoff File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/09d7001358995a2d1d32f1af092a15060129b8ef/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
 * Handoff Datetime: 2016-03-11 04:02:12
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0d98a4f766f4c3bb96224358a565080f267f3f2c/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/archive/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
+* Archive Datetime: 2016-03-12 14:04:59
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -3135,8 +3137,8 @@
 * Handoff File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/09d7001358995a2d1d32f1af092a15060129b8ef/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
 * Handoff Datetime: 2016-03-11 04:02:12
 * Handoff Reason: Include
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
+* Archive File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0d98a4f766f4c3bb96224358a565080f267f3f2c/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/archive/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
+* Archive Datetime: 2016-03-12 14:04:59
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/18a2dbca36e6cbd4c2a4ccf621e305f72a7a15c2/virtualization/windowscontainers/EULA.md)
