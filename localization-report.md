@@ -1601,8 +1601,8 @@
 * Handoff File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/09d7001358995a2d1d32f1af092a15060129b8ef/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
 * Handoff Datetime: 2016-03-11 04:02:12
 * Handoff Reason: Include
-* Archive File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0d98a4f766f4c3bb96224358a565080f267f3f2c/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/archive/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
-* Archive Datetime: 2016-03-12 14:04:59
+* Archive File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/f59d89d25d461120859f12b8bad51e049a6100fa/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/archive/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
+* Archive Datetime: 2016-03-12 14:13:02
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
@@ -3137,8 +3137,8 @@
 * Handoff File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/09d7001358995a2d1d32f1af092a15060129b8ef/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
 * Handoff Datetime: 2016-03-11 04:02:12
 * Handoff Reason: Include
-* Archive File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/0d98a4f766f4c3bb96224358a565080f267f3f2c/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/archive/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
-* Archive Datetime: 2016-03-12 14:04:59
+* Archive File: [ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/f59d89d25d461120859f12b8bad51e049a6100fa/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/ht-legal/archive/ECULA.4d1456885d13a40c520283aab778ac6edee1935f.de-de.xlf)
+* Archive Datetime: 2016-03-12 14:13:02
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Current Target File: [virtualization\windowscontainers\EULA.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/18a2dbca36e6cbd4c2a4ccf621e305f72a7a15c2/virtualization/windowscontainers/EULA.md)
