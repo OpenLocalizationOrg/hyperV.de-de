@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "aaf6dddc174d95e4f7796619a3940490069460a2",
+  "LastProcessedCommit": "c994d4dabe3d444f03eb90c40a2af48073833122",
   "LastTranslatedCommit": "5462bf956d7dbf498122d2f49dbc944c33405d84",
   "Items": {
     "d95757903564f8beea62ad4d2977764d431eeeb8": {
@@ -5269,10 +5269,10 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-aadconnect.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-aadconnect.8446e70ee9abffa2ced64b3bd510a9d01a62f20c.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\active-directory-aadconnect.8446e70ee9abffa2ced64b3bd510a9d01a62f20c.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -5559,10 +5559,10 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-aadconnect-health.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-aadconnect-health.2c0155b3fcf26cd9f814e9bbb06e9f42791b1f55.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\active-directory-aadconnect-health.2c0155b3fcf26cd9f814e9bbb06e9f42791b1f55.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -6168,9 +6168,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-aadconnectsync-understanding-declarative-provisioning-expressions.f04d743f69ccfc3e6a5c36b83b3308f2334ec1f0.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-aadconnectsync-understanding-declarative-provisioning-express.f04d743f69ccfc3e6a5c36b83b3308f2334ec1f0.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -6632,10 +6632,10 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-add-company-branding.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-add-company-branding.34411cd55a42638e7faf46268290fc80e1f21be7.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\active-directory-add-company-branding.34411cd55a42638e7faf46268290fc80e1f21be7.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -6661,10 +6661,10 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-add-domain.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-add-domain.6cbb14b94f492351b3bce0a4dc2f1899922d1c7f.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\active-directory-add-domain.6cbb14b94f492351b3bce0a4dc2f1899922d1c7f.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -6690,10 +6690,10 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-administer.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-administer.d08345545ba870f71ce5c660064cf78e91c07933.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\active-directory-administer.d08345545ba870f71ce5c660064cf78e91c07933.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -9063,10 +9063,10 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-get-started-premium.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-get-started-premium.a81ef88356c1dc2fe29c0492f2862231bbabe5fc.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\active-directory-get-started-premium.a81ef88356c1dc2fe29c0492f2862231bbabe5fc.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -9179,10 +9179,10 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-how-subscriptions-associated-directory.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-how-subscriptions-associated-directory.970e3edf8bead670e350bdb43a0712eb2e9304b5.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4994595Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\active-directory-how-subscriptions-associated-directory.970e3edf8bead670e350bdb43a0712eb2e9304b5.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -9239,10 +9239,10 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-howto-tenant.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-howto-tenant.e3ad92203806badc7e87b79cec871bd30cd14dd7.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\active-directory-howto-tenant.e3ad92203806badc7e87b79cec871bd30cd14dd7.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -9268,9 +9268,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-accesscontrol-requirements.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-accesscontrol-requirements.eeac9328441e40f561fb97ec2f6b1a5d49f72d6b.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-accesscontrol-requireme.eeac9328441e40f561fb97ec2f6b1a5d49f72d6b.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -9355,9 +9355,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-dataprotection-requirements.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-dataprotection-requirements.2ee55d2895256aec44891a35f37f1fda5a2b5c4f.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.452564Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-dataprotection-requirem.2ee55d2895256aec44891a35f37f1fda5a2b5c4f.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -9384,9 +9384,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-data-protection-strategy.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-data-protection-strategy.066bfd12783dc0d30228d4e4b143221329ffbcca.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-data-protection-strateg.066bfd12783dc0d30228d4e4b143221329ffbcca.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -9413,9 +9413,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-directory-sync-requirements.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-directory-sync-requirements.780fef5a116a1065746eed83f346d520d3a892e2.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-directory-sync-requirem.780fef5a116a1065746eed83f346d520d3a892e2.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -9442,9 +9442,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-hybridId-management-tasks.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-hybridId-management-tasks.ef590acf32d38ebb21c9c6233bf6ff2854340355.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-hybridId-management-tas.ef590acf32d38ebb21c9c6233bf6ff2854340355.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -9471,9 +9471,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-identity-adoption-strategy.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-identity-adoption-strategy.ab835dccdf31399a8ff1fa2dc0a00b16dad487cb.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-identity-adoption-strat.ab835dccdf31399a8ff1fa2dc0a00b16dad487cb.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -9500,9 +9500,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-incident-response-requirements.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-incident-response-requirements.372cb80b9e4af75d9b3f57d65c9e488ecd740df4.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-incident-response-requi.372cb80b9e4af75d9b3f57d65c9e488ecd740df4.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -9529,9 +9529,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-lifecycle-adoption-strategy.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-lifecycle-adoption-strategy.204332572e84d4c1c38b3d131a67017b38fa1004.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-lifecycle-adoption-stra.204332572e84d4c1c38b3d131a67017b38fa1004.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -9558,9 +9558,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-hybrid-identity-design-considerations-multifactor-auth-requirements.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-multifactor-auth-requirements.58e049a93a25b3a3fbef95f6106352545326b781.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.452564Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-hybrid-identity-design-considerations-multifactor-auth-requir.58e049a93a25b3a3fbef95f6106352545326b781.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -10558,9 +10558,9 @@
       "FilePathList": [
         "articles\\active-directory\\active-directory-privileged-identity-management-how-to-configure-security-alerts.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-privileged-identity-management-how-to-configure-security-alerts.4f84aac1a1227b19e750ed620f0f6dcdfc954845.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.452564Z",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\active-directory-privileged-identity-management-how-to-configure-security-aler.4f84aac1a1227b19e750ed620f0f6dcdfc954845.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
@@ -18161,10 +18161,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-api-authentication.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-api-authentication.1d0f462e1411d13b1f94e691333e62ef4b01f539.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.452564Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-api-authentication.1d0f462e1411d13b1f94e691333e62ef4b01f539.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -18283,10 +18283,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-api-cors-consume-javascript.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-api-cors-consume-javascript.b1541f6d9049620d455e810ad3faac49a7bc118b.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-api-cors-consume-javascript.b1541f6d9049620d455e810ad3faac49a7bc118b.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -18483,10 +18483,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-api-dotnet-get-started.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-api-dotnet-get-started.d4b9b82593a4939b1d975d304ca4fb8f0a2506ba.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-api-dotnet-get-started.d4b9b82593a4939b1d975d304ca4fb8f0a2506ba.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -18514,10 +18514,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-api-dotnet-service-principal-auth.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-api-dotnet-service-principal-auth.ee2a451d26fbd5a47f5aab184e92470869348709.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-api-dotnet-service-principal-auth.ee2a451d26fbd5a47f5aab184e92470869348709.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -18603,10 +18603,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-api-dotnet-user-principal-auth.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-api-dotnet-user-principal-auth.59192f06dec5f90db62fa1ee520d244b27c3cbdd.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-api-dotnet-user-principal-auth.59192f06dec5f90db62fa1ee520d244b27c3cbdd.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -18667,10 +18667,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-api-java-api-app.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-api-java-api-app.ab12e3892fa357e7ee98a56992eff10fcf56c410.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-api-java-api-app.ab12e3892fa357e7ee98a56992eff10fcf56c410.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -18758,10 +18758,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-api-metadata.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-api-metadata.1951c8cd86bc5b9674246efb0531b5edad31ac60.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-api-metadata.1951c8cd86bc5b9674246efb0531b5edad31ac60.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -18789,10 +18789,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-api-nodejs-api-app.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-api-nodejs-api-app.a4a7d63e25fbd299b2a23a04a3c8dce1fd29375a.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-api-nodejs-api-app.a4a7d63e25fbd299b2a23a04a3c8dce1fd29375a.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -18847,10 +18847,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-api-whats-changed.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-api-whats-changed.135878af72723729b5c305ba0ba2d5148cbb0029.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-api-whats-changed.135878af72723729b5c305ba0ba2d5148cbb0029.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -18872,7 +18872,9 @@
       "SourceFilePath": "articles\\app-service-api\\app-service-create-aspnet-api-app-using-vscode.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
-      "TokenReference": null,
+      "TokenReference": [
+        "includes\\app-service-api-v2-note.md"
+      ],
       "FilePathList": [
         "articles\\app-service-api\\app-service-create-aspnet-api-app-using-vscode.md"
       ],
@@ -18912,10 +18914,10 @@
       "FilePathList": [
         "articles\\app-service-api\\app-service-dotnet-create-api-app.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-dotnet-create-api-app.a2e8631889dce46b2254b54c30afb82b696ca356.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-dotnet-create-api-app.a2e8631889dce46b2254b54c30afb82b696ca356.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -20295,10 +20297,10 @@
       "FilePathList": [
         "articles\\app-service-logic\\app-service-logic-create-a-logic-app.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-logic-create-a-logic-app.ad5859e8a302ff60e47e389b45388414fec0933b.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-logic-create-a-logic-app.ad5859e8a302ff60e47e389b45388414fec0933b.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -20353,10 +20355,10 @@
       "FilePathList": [
         "articles\\app-service-logic\\app-service-logic-create-eai-logic-app-using-vetr.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-logic-create-eai-logic-app-using-vetr.2c0a54d070eb05ebf7464559b639743364b8768c.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-logic-create-eai-logic-app-using-vetr.2c0a54d070eb05ebf7464559b639743364b8768c.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -21175,10 +21177,10 @@
       "FilePathList": [
         "articles\\app-service-mobile\\app-service-mobile-dotnet-backend-hybrid-connections-get-started.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-mobile-dotnet-backend-hybrid-connections-get-started.d5e164d90587469fe22dd85b10be7b8b27eb326d.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.452564Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-mobile-dotnet-backend-hybrid-connections-get-started.d5e164d90587469fe22dd85b10be7b8b27eb326d.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -21405,10 +21407,10 @@
       "FilePathList": [
         "articles\\app-service-mobile\\app-service-mobile-html-get-started.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-mobile-html-get-started.b6af92ac3fccb5a08657e619de78f38a8f31c659.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-mobile-html-get-started.b6af92ac3fccb5a08657e619de78f38a8f31c659.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -21440,10 +21442,10 @@
       "FilePathList": [
         "articles\\app-service-mobile\\app-service-mobile-ios-get-started.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-mobile-ios-get-started.f4479b214568161b51fac7281bc5aefefdf912b6.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-mobile-ios-get-started.f4479b214568161b51fac7281bc5aefefdf912b6.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -21863,10 +21865,10 @@
       "FilePathList": [
         "articles\\app-service-mobile\\app-service-mobile-windows-store-dotnet-get-started.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-mobile-windows-store-dotnet-get-started.3b10a73af813fcea1e32c0747323a493beda6c8f.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-mobile-windows-store-dotnet-get-started.3b10a73af813fcea1e32c0747323a493beda6c8f.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -22002,10 +22004,10 @@
       "FilePathList": [
         "articles\\app-service-mobile\\app-service-mobile-xamarin-android-get-started.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-mobile-xamarin-android-get-started.2ca80929557f5db7169b914792001927524691aa.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4681892Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-mobile-xamarin-android-get-started.2ca80929557f5db7169b914792001927524691aa.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -22141,10 +22143,10 @@
       "FilePathList": [
         "articles\\app-service-mobile\\app-service-mobile-xamarin-forms-get-started.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-mobile-xamarin-forms-get-started.a6a79c4cd5e3bdece01334ad60e86d7380bc998b.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4838217Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-mobile-xamarin-forms-get-started.a6a79c4cd5e3bdece01334ad60e86d7380bc998b.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -22249,10 +22251,10 @@
       "FilePathList": [
         "articles\\app-service-mobile\\app-service-mobile-xamarin-ios-get-started.md"
       ],
-      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\app-service-mobile-xamarin-ios-get-started.646f7422c0786108fba5da8d78d77de236e71eb7.de-de.xlf",
-      "HandoffFileCommit": "e6f862b2e030ca839e6061824c25c9cdf8bd286e",
-      "HandoffDateTime": "2016-03-23T22:05:02.4994595Z",
-      "HandoffPriority": "",
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\acomdc_hi\\app-service-mobile-xamarin-ios-get-started.646f7422c0786108fba5da8d78d77de236e71eb7.de-de.xlf",
+      "HandoffFileCommit": "d7d68ac9cd02a63a46fe9f9b00a12ea034550b70",
+      "HandoffDateTime": "2016-03-28T17:23:42.8261851Z",
+      "HandoffPriority": "acomdc_hi",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
@@ -23670,7 +23672,8 @@
         "articles\\app-service-api\\app-service-api-dotnet-add-authentication.md",
         "articles\\app-service-api\\app-service-dotnet-create-api-app-visual-studio.md",
         "articles\\app-service-api\\app-service-api-dotnet-connect-to-saas.md",
-        "articles\\app-service\\app-service-authentication-overview.md"
+        "articles\\app-service\\app-service-authentication-overview.md",
+        "articles\\app-service-api\\app-service-create-aspnet-api-app-using-vscode.md"
       ],
       "TokenReference": null,
       "FilePathList": [
