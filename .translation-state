@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "6df404751c349292fcf3d87bf9d26cf1ae7ef3cf",
+  "LastProcessedCommit": "cf5444fae1603e7abbfeb31be2bc33c051db6a17",
   "LastTranslatedCommit": "5462bf956d7dbf498122d2f49dbc944c33405d84",
   "Items": {
     "d95757903564f8beea62ad4d2977764d431eeeb8": {
@@ -43931,6 +43931,35 @@
       "HandoffFileCommit": "8be98e7467d34e788c7988c57157b6b8533779f8",
       "HandoffDateTime": "2016-03-29T09:44:56.9311279Z",
       "HandoffPriority": "acomdc_hi",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "20210dd0f65cb688d5ec307f61f25b2013625dcf": {
+      "FileHash": "20210dd0f65cb688d5ec307f61f25b2013625dcf",
+      "SourceFileCommit": "cf5444fae1603e7abbfeb31be2bc33c051db6a17",
+      "SourceFilePath": "articles\\app-service-logic\\test-exclude2.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "articles\\app-service-logic\\test-exclude2.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\hyperV.de-de\\master\\test-exclude2.d5d44b60b1cd962bd074952d3d736e66a2743f9b.de-de.xlf",
+      "HandoffFileCommit": "2e5cf7ca596d7adac7051391a5c0dadd66537019",
+      "HandoffDateTime": "2016-03-29T16:08:15.9579288Z",
+      "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
