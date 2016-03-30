@@ -6,14 +6,14 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/b64035b939521fdcb27f0c09dcff292732ab660e/articles/active-directory/active-directory-aadconnect-health-adfs.md) | HandedOffSuccess | [Details](#885112e63577d80ab4b695da483dd58c8a3f68b711)
+ [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/ac3d9de1a87b664ce513a97036d508fabdb75d0f/articles/active-directory/active-directory-aadconnect-health-adfs.md) | HandedOffSuccess | [Details](#e9503795ad42cf3a631af363a255564c6f36549711)
 
 ## Item Details
-##### <a name='885112e63577d80ab4b695da483dd58c8a3f68b711'></a> Source: [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/b64035b939521fdcb27f0c09dcff292732ab660e/articles/active-directory/active-directory-aadconnect-health-adfs.md)
+##### <a name='e9503795ad42cf3a631af363a255564c6f36549711'></a> Source: [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/ac3d9de1a87b664ce513a97036d508fabdb75d0f/articles/active-directory/active-directory-aadconnect-health-adfs.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fc58d8158afc9cbefbe831fa7db5b3964c795e31/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/acomdc_hi/active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.de-de.xlf)
-* Handoff Datetime: 2016-03-30 03:24:06
+* Handoff File: [active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/a421715d6b5f8c529632a8a23111d1774177f2c1/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.de-de.xlf)
+* Handoff Datetime: 2016-03-30 03:59:26
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
