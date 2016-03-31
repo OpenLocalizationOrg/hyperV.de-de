@@ -6,19 +6,22 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/ac3d9de1a87b664ce513a97036d508fabdb75d0f/articles/active-directory/active-directory-aadconnect-health-adfs.md) | HandedOffSuccess | [Details](#e9503795ad42cf3a631af363a255564c6f36549711)
+ [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2fe86c8a94e3fd9fd366e8574eb03b640b5e0667/virtualization/community/community_overview.md) | OutofSyncHandedBackSuccess | [Details](#8e5b907b0be3cf20d7d49488af7e13337ac934fe1400)
 
 ## Item Details
-##### <a name='e9503795ad42cf3a631af363a255564c6f36549711'></a> Source: [articles\active-directory\active-directory-aadconnect-health-adfs.md](https://github.com/OpenLocalizationOrg/hyperV/blob/ac3d9de1a87b664ce513a97036d508fabdb75d0f/articles/active-directory/active-directory-aadconnect-health-adfs.md)
-* Status: HandedOffSuccess
+##### <a name='8e5b907b0be3cf20d7d49488af7e13337ac934fe1400'></a> Source: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV/blob/2fe86c8a94e3fd9fd366e8574eb03b640b5e0667/virtualization/community/community_overview.md)
+* Status: OutofSyncHandedBackSuccess
 * Target File: 
-* Handoff File: [active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/a421715d6b5f8c529632a8a23111d1774177f2c1/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/active-directory-aadconnect-health-adfs.a1c1552f5202530ca6f8a9c938a9e9e36ad5da7e.de-de.xlf)
-* Handoff Datetime: 2016-03-30 03:59:26
+* Handoff File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/699cb29bc2cd31ffcf7f3aadbcfac2ff27888ea5/ol-handoff/OpenLocalizationOrg/hyperV.de-de/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
+* Handoff Datetime: 2016-03-31 17:48:58
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [virtualization\community\community_overview.md](https://github.com/OpenLocalizationOrg/hyperV.de-de/blob/374279e4b3b89cd5f48ded0c890b00d38ea4c722/virtualization/community/community_overview.md)
+* Current Handback File: [community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/441cba2ab844266083c5b07f709265819067141a/ol-handback/OpenLocalizationOrg/hyperV.de-de/master/community_overview.4d3cb46b3cb0b5d520b8240070543e6c2549b923.de-de.xlf)
+* Current Handback Datetime: 2015-11-02 17:17:03
 * [Back to Top](#report-top)
 
 
